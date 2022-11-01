@@ -1,1 +1,1 @@
-# Smart_Green_House_COT
+# Projet_Smart_Green_House_CoT
