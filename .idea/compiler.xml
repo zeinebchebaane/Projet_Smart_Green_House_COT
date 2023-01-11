@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="smartgreenhouse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jakartanosql" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jakartanosql" options="-endorseddirs C:\Users\ZEINEB\Desktop\test\jakarta-nosql-demo\target/endorsed" />
+      <module name="smartgreenhouse" options="-endorseddirs C:\Users\ZEINEB\Desktop\test\smart_green_house\target/endorsed" />
+    </option>
+  </component>
+</project>
