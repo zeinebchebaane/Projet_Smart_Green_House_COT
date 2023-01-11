@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com/smart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com/smart/greenhouse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com/smart/greenhouse/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com/smart/greenhouse/Entity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com/smart/greenhouse/Util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/com/smart/greenhouse/repository" isTestSource="false" />
+    </content>
+  </component>
+</module>
