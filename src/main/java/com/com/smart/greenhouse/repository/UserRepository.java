@@ -8,10 +8,7 @@ import java.util.Optional;
 import java.util.List;
 
 public interface UserRepository extends Repository<User,String> {
-    static Optional<User> findByEmail(String email) {
-        return null;
-    }
-
+    Optional<User> findByEmail(String email);
     List<User> findAll() ;
 
 }

@@ -1,5 +1,6 @@
 package com.com.smart.greenhouse.models;
 
+import com.com.smart.greenhouse.Util.Argon2Utility;
 import jakarta.nosql.mapping.Column;
 import jakarta.nosql.mapping.Entity;
 import jakarta.nosql.mapping.Id;
@@ -119,4 +120,12 @@ public class User   implements Serializable {
                 ", role=" + roles +
                 '}';
     }
+
+    public void updatePassword(String password, Argon2Utility argon2Utility) {
+        this.password = argon2Utility.hash(password.toCharArray());
     }
+
+
+
+
+}

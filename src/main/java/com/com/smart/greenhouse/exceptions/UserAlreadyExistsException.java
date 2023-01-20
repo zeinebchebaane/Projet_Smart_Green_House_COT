@@ -1,4 +1,4 @@
-package com.com.smart.greenhouse.security.exceptions;
+package com.com.smart.greenhouse.exceptions;
 
 public class UserAlreadyExistsException extends  RuntimeException{
     String message ;
