@@ -46,7 +46,7 @@ HTTPS a été activé à l'aide du Certbot de Let's Encrypt's, qui nous a permis
 
 ## Captures d'écran de la solution :
 
-![Captures solution](Docs/Captures solution.PNG)
+![Captures solution](https://github.com/zeinebchebaane/Projet_Smart_Green_House_COT/blob/main/Docs/Captures%20solution.PNG)
 
 ## Lectures complémentaires :
 Vous pouvez trouver plus d'informations et jeter un œil à la conception de l'architecture avec les documents suivants :
