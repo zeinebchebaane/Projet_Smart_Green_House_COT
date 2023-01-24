@@ -1,16 +1,14 @@
 
 ## Projet_Smart_Green_House_CoT
 
-## Context: 
+## Contexte du projet: 
 Ce projet est réalisé dans le cadre du module **Cloud of Things** et élaboré par:
 - Zeineb Chebaane.
 - Rami Zouari.
 
 Avec la tutelle du Dr. Ing. Mohamed-Bécha Kaâniche.
 
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-
+## Description du projet :
 Ce projet est manifesté par une solution intelligente qui est dédiée pour les serres dite "Smart Green House'" permettant de garantir une productivité optimale des cultures à travers la construction d'une serre intelligente créant un climat adapté à la croissance des plantes grâce à l’utilisation de capteurs IoT (capteur d’humidité et de température).
 
 
