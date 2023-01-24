@@ -46,7 +46,7 @@ HTTPS a été activé à l'aide du Certbot de Let's Encrypt's, qui nous a permis
 
 ## Captures d'écran de la solution :
 
-![Solution](Docs/Captures solution.PNG)
+![Captures solution](Docs/Captures solution.PNG)
 
 ## Lectures complémentaires :
 Vous pouvez trouver plus d'informations et jeter un œil à la conception de l'architecture avec les documents suivants :
