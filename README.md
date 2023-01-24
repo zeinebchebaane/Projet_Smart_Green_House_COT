@@ -39,12 +39,17 @@ Nous avons exploité nos comptes Microsoft gratuits pour nous connecter et obten
 * La VM est hébergée en Europe de l'Est.
 
 
+![Solution](Docs/.PNG)
+
+
 ## Certification et classement :
 
 HTTPS a été activé à l'aide du Certbot de Let's Encrypt's, qui nous a permis de vérifier la propriété de notre domaine **www.smart-green-house-cofthings.me** et de sécuriser les connexions à notre site Web. Nous avons également généré les paramètres Dephi-Helman plus forts pour la connexion TLS avec une longueur de 4096 bits. Nous avons pu obtenir la validation **A** de [SSLlabs](https://www.ssllabs.com/) en tant que note globale.
 ![Certification](Docs/Certification.PNG)
 
+## Captures d'écran de la solution :
 
+![Solution](Docs/Captures solution.PNG)
 
 ## Lectures complémentaires :
 Vous pouvez trouver plus d'informations et jeter un œil à la conception de l'architecture avec les documents suivants :
